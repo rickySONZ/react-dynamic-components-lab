@@ -35,5 +35,20 @@
     "jsdom-global": "3.0.2",
     "mocha": "^5.2.0",
     "sinon": "^6.3.5"
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickySONZ/react-dynamic-components-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickySONZ/react-dynamic-components-lab/issues"
+  },
+  "homepage": "https://github.com/rickySONZ/react-dynamic-components-lab#readme"
 }
